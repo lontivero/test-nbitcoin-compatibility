@@ -1,0 +1,8 @@
+[submodule "secp256k1"]
+	path = secp256k1
+	url = git@github.com:Metacosa/NBitcoin.git
+	branch = secp256k1
+[submodule "master"]
+	path = master
+	url = git@github.com:Metacosa/NBitcoin.git
+	branch = master
