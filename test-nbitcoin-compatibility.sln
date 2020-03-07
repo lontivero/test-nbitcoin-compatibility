@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "master", "SchnorrBlindingSignature\master.csproj", "{9854963A-8F27-4C66-A0E8-8F73ABDFF7CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "old", "./old.csproj", "{9854963A-8F27-4C66-A0E8-8F73ABDFF7CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "secp256k1", "SchnorrBlindingSignature\secp256k1.csproj", "{7E2D62BB-63A5-4535-A2C2-8E509ECDF7DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "new", "./new.csproj", "{7E2D62BB-63A5-4535-A2C2-8E509ECDF7DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
